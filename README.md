@@ -6,6 +6,7 @@ python == 3.8
 tensorflow-gpu == 2.9.0
 
 推荐硬件环境：GPU NVIDA 48GB; 内存： 90G
+
 运行方式：调整好参数后，在终端中执行python save_output.py命令
 
 
